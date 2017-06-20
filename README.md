@@ -46,5 +46,5 @@ Activity 四种启动模式
 ![singleInstance](/singleInstance.PNG )
 
 ### 总结
-![总结](/activity的四种启动模式.PNG )
+![总结](/zj.PNG )
 
