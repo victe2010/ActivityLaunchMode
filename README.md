@@ -1,3 +1,4 @@
+
 Activity 四种启动模式
 ===============
 设置activity启动模式，在`AndroidManifest.xml`
@@ -16,6 +17,8 @@ Activity 四种启动模式
 ```
 ## 1、standard 标准模式（默认）
  每次跳转都会创建一个新的实例，存储在调用者activity的任务栈中,即同一个任务栈中。
+ 
+ ![standard](ActivityLaunchMode/standard.PNG )
 
 ## 2、singleTop
  这种模式类似与standard模式，但有一点不一样，仅当跳转的目标activity
